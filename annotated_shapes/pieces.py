@@ -50,12 +50,12 @@ piece_7 = {(0,0),(0,1),(1,1),(1,2),(1,3)}
 #   X X
 piece_8 = {(0,0),(1,0),(1,1),(1,2),(2,2)}
 
-# Photo 9 — Y-pentomino  (?)
-#   X
+# Photo 9 — Y-pentomino (mirrored)  (?)
+# X
 # X X
-#   X
-#   X
-piece_9 = {(1,0),(0,1),(1,1),(1,2),(1,3)}
+# X
+# X
+piece_9 = {(0,0),(0,1),(1,1),(0,2),(0,3)}
 
 # Photo 10 — X-pentomino
 #   X
